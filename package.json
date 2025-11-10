@@ -1,6 +1,6 @@
 {
   "name": "hodor",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Agentic code reviewer for GitHub PRs and GitLab MRs. Multi-step reasoning with autonomous tool orchestration \u2014 catches bugs requiring analysis across files.",
   "main": "src/index.ts",
   "scripts": {
